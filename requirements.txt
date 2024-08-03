@@ -1,0 +1,6 @@
+gigachat
+gtts
+pyaudio
+pygame
+vosk
+python-dotenv
